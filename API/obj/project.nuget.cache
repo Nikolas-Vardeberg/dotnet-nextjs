@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trEI1jBj57adz1pwsUqSH1ZBeT3pNga7Wbxi8BwfzapLBOiWwOPbV4MBP6D48UTpHWegXolQl1HZujezErsHBg==",
+  "dgSpecHash": "IeshtRFliIBx6TpTzWoqPxO+BS3EV+nFj1OwBxQ9ALF31T3lcCQ7tQFoze4D2cg2vBOD8DAqYHrNdf1s/Wre+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elev\\.nuget\\packages\\fastendpoints\\5.33.0\\fastendpoints.5.33.0.nupkg.sha512",
     "C:\\Users\\Elev\\.nuget\\packages\\fastendpoints.attributes\\5.33.0\\fastendpoints.attributes.5.33.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj": {}
+    "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj": {
+    "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Elev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\obj\\",
+        "outputPath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elev\\AppData\\Roaming\\NuGet\\NuGet.Config"
