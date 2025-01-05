@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4zi4O0MmhAnWgdOOUojyT6Qcp0kqkPCqluC4NqEXMLOOJ95lPXRgYVrdTA7k4MaF5g1M+cgOHrnfI7Ewayx+qA==",
+  "dgSpecHash": "K43mtp5Jg5gzzVowV+Q0Bmlf6+eD8x05wKpQIHLDP+h64ZCefCY4f9BSDzePIofFRa5xHAcCUCirc9j4Jhj0Gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elev\\Documents\\GitHub\\dotnet-nextjs\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Elev\\.nuget\\packages\\fastendpoints\\5.33.0\\fastendpoints.5.33.0.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\fastendpoints.attributes\\5.33.0\\fastendpoints.attributes.5.33.0.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\fastendpoints.messaging.core\\5.33.0\\fastendpoints.messaging.core.5.33.0.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\Elev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\Elev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Elev\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
